@@ -14,8 +14,9 @@
     - ReLU 계층
   - [chapter 6 학습 관련 기술들](https://github.com/KIMDOKYOUNG/DeepLearning/tree/master/chapter6/chapter_6.ipynb) 2020-08-19
   - [chpater 7 합성곱 신경망(CNN)](https://github.com/KIMDOKYOUNG/DeepLearning/tree/master/chapter7/chapter_7.ipynb) 2020-08-21
-  - 
+  - chapter 8 딥러닝 2020-08-24
+
   
 ### 밑바닥부터 시작하는 딥러닝 2
-
+  - chapter 1 신경망 복습 2020-08-25 
 
