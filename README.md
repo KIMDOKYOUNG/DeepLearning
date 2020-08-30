@@ -21,4 +21,5 @@
   - chapter 1 신경망 복습 2020-08-25 
   - chapter 2 자연어와 단어의 분산 표현 2020-08-26
   - chapter 3 
+  - chapter 4
 
