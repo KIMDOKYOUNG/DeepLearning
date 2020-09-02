@@ -22,4 +22,5 @@
   - chapter 2 자연어와 단어의 분산 표현 2020-08-26
   - chapter 3 
   - chapter 4
+  - chapter 5
 
