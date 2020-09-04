@@ -18,9 +18,9 @@
 
   
 ### 밑바닥부터 시작하는 딥러닝 2
-  - chapter 1 신경망 복습 2020-08-25 
-  - chapter 2 자연어와 단어의 분산 표현 2020-08-26
-  - chapter 3 
+  - [chapter 1 신경망 복습](https://github.com/KIMDOKYOUNG/DeepLearning/tree/master/2_chapter1/chapter1.ipynb) 2020-08-25 
+  - [chapter 2 자연어와 단어의 분산 표현](https://github.com/KIMDOKYOUNG/DeepLearning/tree/master/2_chapter2/chapter2.ipynb) 2020-08-26
+  - chapter 3 word2vec
   - chapter 4
   - chapter 5
   - chapter 6 
