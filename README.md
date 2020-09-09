@@ -24,4 +24,5 @@
   - chapter 4 word2vec 속도 개선 2020-09-01
   - chapter 5 순환 신경망(RNN) 
   - chapter 6 
+  - chapter 7 
 
