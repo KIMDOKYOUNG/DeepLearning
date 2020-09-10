@@ -23,6 +23,6 @@
   - [chapter 3 word2vec](https://github.com/KIMDOKYOUNG/DeepLearning/tree/master/2_chapter3/chapter3.ipynb) 2020-08-28
   - chapter 4 word2vec 속도 개선 2020-09-01
   - chapter 5 순환 신경망(RNN) 
-  - chapter 6 
+  - chapter 6 게이트가 추가된 RNN
   - chapter 7 
 
