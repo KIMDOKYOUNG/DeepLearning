@@ -24,5 +24,5 @@
   - chapter 4 word2vec 속도 개선 2020-09-01
   - chapter 5 순환 신경망(RNN) 
   - chapter 6 게이트가 추가된 RNN
-  - chapter 7 
+  - chapter 7 RNN을 활용한 문장 생성 
 
