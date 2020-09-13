@@ -25,5 +25,5 @@
   - chapter 5 순환 신경망(RNN) 
   - chapter 6 게이트가 추가된 RNN
   - chapter 7 RNN을 활용한 문장 생성 
-  - chapter 8 
+  - chapter 8 어텐션
 
