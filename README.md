@@ -26,4 +26,6 @@
   - chapter 6 게이트가 추가된 RNN
   - chapter 7 RNN을 활용한 문장 생성 
   - chapter 8 어텐션
+### Toy Project 
+  - [numpy로 seq2seq 중영 번역 모델 구현](https://github.com/KIMDOKYOUNG/DeepLearning/tree/master/toy_project/toy_project.ipynb) 2020-09-14
 
